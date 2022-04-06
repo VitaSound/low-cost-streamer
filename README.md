@@ -10,6 +10,7 @@ A device for connecting a line signal (from mixer, synth, line out, mp3 playes, 
 3. [Production secrets](#Production-secrets)
 4. [Mesurements](#Mesurements)
 5. [Conclusions](#Conclusions)
+6. [Links](#Links)
 
 ## Parameters
 
@@ -67,3 +68,9 @@ Noise level
 You can use it to record a mix from a mixer, but you need to understand that 1) the sound will be mono 2) the frequency response of the signal will depend on the parameters of the microphone input of the phone. In the case of the tested phone, the frequency response was not smooth. In general, the signal is high-quality by ear and does not resemble the sound in the handset of the phone
 
 It is suitable as an inexpensive solution for streaming via a smartphone, but not through the built-in microphone.
+
+## Links
+
+vk.com/@fpga_synth-low-cost-streamer
+
+
