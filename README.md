@@ -71,6 +71,8 @@ It is suitable as an inexpensive solution for streaming via a smartphone, but no
 
 ## Links
 
-vk.com/@fpga_synth-low-cost-streamer
 
 
+This description [In Russian](vk.com/@fpga_synth-low-cost-streamer)
+
+Diagram draw [here](https://www.diagrameditor.com/webapp/?ui=atlas&tr=0&gh=0&gl=0&gapi=0&od=0&db=0&lang=en)
