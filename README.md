@@ -2,6 +2,8 @@
 
 A device for connecting a line signal (from mixer, synth, line out, mp3 playes, phone etc) to the microphone input of an Android smartphone.
 
+![mixer](Mixer.jpg "Mixer")
+
 # Table of Contents
 1. [Parameters](#Parameters)
 2. [Scheme](#Scheme)
